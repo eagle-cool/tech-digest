@@ -1,0 +1,14 @@
+title: Tech Digest
+description: Daily tech news digest from RSS feeds
+theme: minima
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - README.md
