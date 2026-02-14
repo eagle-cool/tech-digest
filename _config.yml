@@ -1,7 +1,15 @@
 title: Tech Digest
-description: Daily tech news digest from RSS feeds
+description: 每日精選科技新聞 — AI、前端、系統工程與資安趨勢
+url: https://eagle-cool.github.io
+baseurl: /tech-digest
+lang: zh-TW
 theme: minima
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
 defaults:
   - scope:
