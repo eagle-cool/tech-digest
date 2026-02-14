@@ -1,0 +1,14 @@
+{
+  "name": "Tech Digest",
+  "short_name": "Tech Digest",
+  "icons": [
+    {
+      "src": "/tech-digest/assets/img/favicons/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "theme_color": "#6366f1",
+  "background_color": "#1b1b1e",
+  "display": "standalone"
+}
